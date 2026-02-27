@@ -1,0 +1,8 @@
+---
+include:
+  - board: nice_nano
+    shield: caldera_left
+  - board: nice_nano
+    shield: caldera_right
+  - board: nice_nano
+    shield: settings_reset
